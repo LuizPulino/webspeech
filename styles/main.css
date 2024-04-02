@@ -1,1 +1,4 @@
-*{color:red}
+*{
+  font: 1.2rem sans-serif;
+  box-sizing: border-box;
+}
